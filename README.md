@@ -45,7 +45,7 @@ The Event Registration App allows users to register attendees for different even
 ## 📸 Screenshots
 
 ### Trailhead Badge: Event Registration App
-<img width="1920" height="1080" alt="Screenshot 2025-07-24 222237" src="https://github.com/user-attachments/assets/1982ec82-9960-451e-b938-b5bc8aac2d42" /><img width="1920">
+<img width="1920" height="1080" alt="Screenshot 2025-07-25 003454" src="https://github.com/user-attachments/assets/ce08e801-b697-4e49-92bb-6675f6bbd42b" />
 
 ### Session Object – Registration Record
  <img height="1080" alt="Screenshot 2025-07-25 001205" src="https://github.com/user-attachments/assets/66029a3a-12a3-4119-a06e-2634c7db49a0" />
