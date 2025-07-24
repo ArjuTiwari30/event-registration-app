@@ -47,9 +47,9 @@ The Event Registration App allows users to register attendees for different even
 ### Trailhead Badge: Event Registration App
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 222237" src="https://github.com/user-attachments/assets/1982ec82-9960-451e-b938-b5bc8aac2d42" /><img width="1920">
 
-### Flow Builder – Event Registration Flow Logic
+### Session Object – Registration Record
  <img height="1080" alt="Screenshot 2025-07-25 001205" src="https://github.com/user-attachments/assets/66029a3a-12a3-4119-a06e-2634c7db49a0" />
 
-### Session Object – Registration Record
+### Flow Builder – Event Registration Flow Logic
 <img width="1920" height="1080" alt="Screenshot 2025-07-25 001036" src="https://github.com/user-attachments/assets/2a84e7ce-358a-4797-ac8c-dae92e8fdb61" />
 
